@@ -1,0 +1,9 @@
+[submodule "DLFuzz"]
+	path = DLFuzz
+	url = https://github.com/nhanitvn/DLFuzz.git
+[submodule "testRNN"]
+	path = testRNN
+	url = https://github.com/nhanitvn/testRNN.git
+[submodule "defragTrees"]
+	path = defragTrees
+	url = https://github.com/nhanitvn/defragTrees.git
